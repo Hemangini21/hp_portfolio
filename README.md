@@ -18,7 +18,7 @@ Personal introduction highlighting my passion for AI, business, and technology, 
 
 ### 💼 **Experience**
 Professional timeline showcasing my research internships at prestigious institutions:
-- **IIT Kharagpur** - Research Intern (ESG metrics analysis and ML model training)
+- **Winvesta** - AI Intern (Automation workflows on n8n)
 - **IIT Patna** - AI/ML Intern (Advanced ML and deep learning implementations)
 
 ### 🚀 **Projects**
