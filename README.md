@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![VIEW LIVE PORTFOLIO](https://img.shields.io/badge/_VIEW_LIVE_PORTFOLIO-8B5CF6?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1B4B&color=A855F7&gradient=linear-gradient(45deg,8B5CF6,A855F7,C084FC))](https://ddportfolio-six.vercel.app/)
+[![VIEW LIVE PORTFOLIO](https://img.shields.io/badge/_VIEW_LIVE_PORTFOLIO-8B5CF6?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1B4B&color=A855F7&gradient=linear-gradient(45deg,8B5CF6,A855F7,C084FC))](https://hpportfolio-five.vercel.app/)
 
 </div>
 
@@ -23,20 +23,17 @@ Professional timeline showcasing my research internships at prestigious institut
 
 ### 🚀 **Projects**
 Featured portfolio projects demonstrating expertise in AI/ML:
+-**Syncvox**- Video Dubbing using AI
 - **NyayMitra** - AI-driven legal service platform
 - **ReddIQ** - Social media analysis dashboard
 - **Agenix** - AI agent marketplace
-- **GreenGuard** - AI-powered crop disease detection
+
 
 ### 🛠️ **Skills**
 Comprehensive display of technical competencies organized by categories:
 - Programming Languages (Python, JavaScript, C++, SQL, HTML, CSS)
 - Frameworks & Tools (React.js, Next.js, Flask, LangChain, Streamlit)
 - Specializations (AI/ML, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis)
-
-### 🎯 **Extra-Curricular Activities**
-Timeline of leadership roles and community involvement across various organizations:
-- RFG LABS, DJS-NSDC, DJSCE Lok Sabha, TEDx DJSCE, DJSCE Trinity, DJS CodeStars, Google Developer Student Club DJSCE, DJS Nova
 
 ### 📞 **Contact**
 Interactive contact section with social media links and professional networking profiles.
