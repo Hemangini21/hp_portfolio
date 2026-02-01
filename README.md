@@ -23,7 +23,7 @@ Professional timeline showcasing my research internships at prestigious institut
 
 ### 🚀 **Projects**
 Featured portfolio projects demonstrating expertise in AI/ML:
--**Syncvox**- Video Dubbing using AI
+- **Syncvox**- Video Dubbing using AI
 - **NyayMitra** - AI-driven legal service platform
 - **ReddIQ** - Social media analysis dashboard
 - **Agenix** - AI agent marketplace
